@@ -1,0 +1,46 @@
+/* Styles go here */
+body {
+	background-image: url("../background.png");
+	background-size: 100%;
+	background-position: 0px 56px;
+	margin-top: 10%;
+	margin-left: 35%;
+	font-size: 15px;
+}
+
+.ethswap {
+	color: #e92d75 !important;
+	font-size: 1.4em !important;
+}
+
+.identicon {
+	border-radius: 10px;
+}
+
+.backgorund_translucent {
+	background-color: rgba(255, 255, 255, 0.13);
+}
+
+.text_color {
+	color: #fff !important;
+}
+
+.text_muted {
+	color: rgb(214, 214, 214) !important;
+}
+
+.btn_buy_sell {
+	background-color: #381eb4;
+	color: #fff !important;
+	width: 100px;
+}
+
+.btn_swap {
+	background-color: #381eb4;
+	color: #fff !important;
+}
+
+.btn_buy_sell:hover,
+.btn_swap:hover {
+	background-color: #5239d1;
+}
