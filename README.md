@@ -16,6 +16,7 @@ Tests for the contracts have also been written and can be found in the `test` di
 <b>Technologies used</b>
 
 <br/>
+<br/>
 
 Solidity
 <br/>
