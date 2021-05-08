@@ -10,6 +10,16 @@ The contracts can only be deployed once because blockchain doesn't allow updatio
 That's why it is very critical and important to get it right before deploying with accuracy.
 This required a lot of smart and hard decisions for making these contracts almost perfect for production.
 
+<a href="http://Pushpit07.github.io/EthSwap">EthSwap website</a>
+
+---
+
+**NOTE**
+
+The website requires the Metamask wallet to be installed in the browser to be able to access the Ethreum blockchain and make transactions.
+
+---
+
 Tests for the contracts have also been written and can be found in the `test` directory.
 
 <br/>
