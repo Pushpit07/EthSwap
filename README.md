@@ -12,15 +12,25 @@ This required a lot of smart and hard decisions for making these contracts almos
 
 Tests for the contracts have also been written and can be found in the `test` directory.
 
+<br/>
 <b>Technologies used</b>
-
+<br/>
 Solidity
+<br/>
 JavaScript
+<br/>
 Truffle
+<br/>
 Ganache
+<br/>
 ReactJS
+<br/>
 Web3
+<br/>
 Metamask
+<br/>
 BootStrap
+<br/>
 Chai
+<br/>
 Identicon
